@@ -6,7 +6,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/tweekmonster/luser"
+	"github.com/lollipopman/luser"
 )
 
 var userStr = `

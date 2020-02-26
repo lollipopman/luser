@@ -5,7 +5,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/tweekmonster/luser"
+	"github.com/lollipopman/luser"
 )
 
 var lookupGroup *bool

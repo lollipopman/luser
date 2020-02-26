@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/tweekmonster/luser"
+	"github.com/lollipopman/luser"
 )
 
 var lookupGroup = flag.Bool("g", false, "Lookup group")
